@@ -1,0 +1,72 @@
+Choose one of this options:
+Product list:
+1. Load data from file and display
+2. Input & add to the end.
+3. Display data
+4. Save product list to file.
+5. Search by ID
+6. Delete by ID
+7. Sort by ID.
+8. Convert to Binary
+9. Load to stack and display
+10. Load to queue and display.
+0. Exit
+Your choice is: 
+--------------------------------------------------------------------------------------
+Add new product: 
+ID of Product (in letter): Name of Product (in letter): Price (in number): Quantity (in number): Continue (Y/N)?ID of Product (in letter): Name of Product (in letter): Price (in number): Quantity (in number): Continue (Y/N)?ID of Product (in letter): Name of Product (in letter): Price (in number): Quantity (in number): Continue (Y/N)?--------------------------------------------------------------------------------------
+Choose one of this options:
+Product list:
+1. Load data from file and display
+2. Input & add to the end.
+3. Display data
+4. Save product list to file.
+5. Search by ID
+6. Delete by ID
+7. Sort by ID.
+8. Convert to Binary
+9. Load to stack and display
+10. Load to queue and display.
+0. Exit
+Your choice is: 
+--------------------------------------------------------------------------------------
+Product details
+ID   |    Product Name   |    Price  |    Quantity
+--------------------------------------------------------------------------------------
+tre  |    milk           |    500.0  |    45
+abc  |    meat           |    945.0  |    39
+oer  |    egg            |    543.0  |    564
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+Choose one of this options:
+Product list:
+1. Load data from file and display
+2. Input & add to the end.
+3. Display data
+4. Save product list to file.
+5. Search by ID
+6. Delete by ID
+7. Sort by ID.
+8. Convert to Binary
+9. Load to stack and display
+10. Load to queue and display.
+0. Exit
+Your choice is: 
+--------------------------------------------------------------------------------------
+Searching by ID (by string): 
+ - 1 Not found
+--------------------------------------------------------------------------------------
+Choose one of this options:
+Product list:
+1. Load data from file and display
+2. Input & add to the end.
+3. Display data
+4. Save product list to file.
+5. Search by ID
+6. Delete by ID
+7. Sort by ID.
+8. Convert to Binary
+9. Load to stack and display
+10. Load to queue and display.
+0. Exit
+Your choice is: 

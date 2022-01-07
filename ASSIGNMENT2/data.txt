@@ -1,0 +1,3 @@
+abc , milk , 400.0 , 23
+twe , meat , 900.0 , 34
+oer , egg , 234.0 , 45
